@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>名古屋IT地図</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="@c_tyo">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v2.0.2/turf.min.js'></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='map' style='width: 100%; height: 100%;'></div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY3R5byIsImEiOiJjanF2cTNjMm8weHVjNDJrOGV2anp3NDFwIn0.4pGtZ9Run1--9FR8NBkuqg';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9',
+            center: [136.96824, 35.153852],
+            zoom: 14
+        });
+        map.addControl(new mapboxgl.NavigationControl());
+        map.on('load', function () {
+            map.addSource('point_sample', {
+                type: 'geojson',
+                data: './nagoya.json'
+            });
+            // スタイル設定
+            map.addLayer({
+                "id": "point_sample",
+                "type": "circle",
+                "source": "point_sample",
+                "layout": {},
+                "paint": {
+                    'circle-color': "#FF0000",
+                    'circle-radius': 10
+                }
+            });
+        });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11027566-8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-11027566-8');
+    </script>
+</body>
+
+</html>
