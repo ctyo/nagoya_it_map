@@ -13,7 +13,7 @@ foreach ($csv as $row) {
         'type' => 'Feature', 
         'geometry' => ['type' => 'Point','coordinates' => array($row[3], $row[2])],
         'properties' => [
-            'name' => $row[0],
+            'title' => $row[0],
         ]
     ];
     $geojson['features'][] = $feature;
