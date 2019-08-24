@@ -11,7 +11,8 @@
                 ]
             },
             "properties": {
-                "title": "MidlandIncubatorsHouse"
+                "title": "MidlandIncubatorsHouse",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -24,7 +25,8 @@
                 ]
             },
             "properties": {
-                "title": "stmn"
+                "title": "stmn",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -37,7 +39,8 @@
                 ]
             },
             "properties": {
-                "title": "IDENTITY"
+                "title": "IDENTITY",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -50,7 +53,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d6\u30e9\u30a4\u30c8\u30f4\u30a3\u30fc"
+                "title": "\u30d6\u30e9\u30a4\u30c8\u30f4\u30a3\u30fc",
+                "color": "rgb(255,191,0)"
             }
         },
         {
@@ -63,7 +67,8 @@
                 ]
             },
             "properties": {
-                "title": "Misoka"
+                "title": "Misoka",
+                "color": "rgb(1,199,188)"
             }
         },
         {
@@ -76,7 +81,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30bb\u30d7\u30c6\u30fc\u30cb"
+                "title": "\u30bb\u30d7\u30c6\u30fc\u30cb",
+                "color": "rgb(219,235,249)"
             }
         },
         {
@@ -89,7 +95,22 @@
                 ]
             },
             "properties": {
-                "title": "\u30c6\u30af\u30e0\u30ba"
+                "title": "\u30c6\u30af\u30e0\u30ba",
+                "color": "rgb(0,214,0)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "136.8741272",
+                    "35.1683251"
+                ]
+            },
+            "properties": {
+                "title": "ATEAM",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -102,7 +123,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30a2\u30c3\u30d7\u30eb\u30c3\u30d7\u30eb"
+                "title": "\u30a2\u30c3\u30d7\u30eb\u30c3\u30d7\u30eb",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -115,7 +137,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d9\u30fc\u30b9\u30ad\u30e3\u30f3\u30d7"
+                "title": "\u30d9\u30fc\u30b9\u30ad\u30e3\u30f3\u30d7",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -128,7 +151,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30bb\u30d7\u30c6\u30fc\u30cb"
+                "title": "\u30bb\u30d7\u30c6\u30fc\u30cb",
+                "color": "rgb(219,235,249)"
             }
         },
         {
@@ -141,7 +165,8 @@
                 ]
             },
             "properties": {
-                "title": "Acompany"
+                "title": "Acompany",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -154,7 +179,8 @@
                 ]
             },
             "properties": {
-                "title": "cloudpack"
+                "title": "cloudpack",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -167,7 +193,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30bf\u30c7\u30a3\u30b9\u30c8"
+                "title": "\u30b9\u30bf\u30c7\u30a3\u30b9\u30c8",
+                "color": "rgb(219,235,249)"
             }
         },
         {
@@ -180,7 +207,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b5\u30a4\u30c8\u30b9\u30b3\u30fc\u30d7"
+                "title": "\u30b5\u30a4\u30c8\u30b9\u30b3\u30fc\u30d7",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -193,7 +221,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d7\u30e9\u30b9\u30a4\u30fc"
+                "title": "\u30d7\u30e9\u30b9\u30a4\u30fc",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -206,7 +235,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30af\u30e9\u30c3\u30bd\u30fc\u30cd"
+                "title": "\u30af\u30e9\u30c3\u30bd\u30fc\u30cd",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -219,7 +249,8 @@
                 ]
             },
             "properties": {
-                "title": "\u540d\u5927\u30a4\u30f3\u30ad\u30e5\u30d9\u30fc\u30b7\u30e7\u30f3\u62e0\u70b9"
+                "title": "\u540d\u5927\u30a4\u30f3\u30ad\u30e5\u30d9\u30fc\u30b7\u30e7\u30f3\u62e0\u70b9",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -232,7 +263,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b7\u30fc\u30c9"
+                "title": "\u30b7\u30fc\u30c9",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -245,7 +277,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30aa\u30d7\u30c6\u30a3\u30de\u30a4\u30f3\u30c9"
+                "title": "\u30aa\u30d7\u30c6\u30a3\u30de\u30a4\u30f3\u30c9",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -258,7 +291,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30c7\u30f3\u30bd\u30fc"
+                "title": "\u30c7\u30f3\u30bd\u30fc",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -271,7 +305,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b7\u30a7\u30a2\u30ea\u30f3\u30b0\u30c6\u30af\u30ce\u30ed\u30b8\u30fc"
+                "title": "\u30b7\u30a7\u30a2\u30ea\u30f3\u30b0\u30c6\u30af\u30ce\u30ed\u30b8\u30fc",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -284,7 +319,8 @@
                 ]
             },
             "properties": {
-                "title": "MAP\u2163"
+                "title": "MAP\u2163",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -297,7 +333,8 @@
                 ]
             },
             "properties": {
-                "title": "TOYOTA"
+                "title": "TOYOTA",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -310,7 +347,8 @@
                 ]
             },
             "properties": {
-                "title": "TRYETING"
+                "title": "TRYETING",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -323,7 +361,8 @@
                 ]
             },
             "properties": {
-                "title": "VISOR"
+                "title": "VISOR",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -336,7 +375,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30e4\u30d5\u30fc"
+                "title": "\u30e4\u30d5\u30fc",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -349,7 +389,8 @@
                 ]
             },
             "properties": {
-                "title": "freee"
+                "title": "freee",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -362,7 +403,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30e6\u30cb\u30d5\u30a1"
+                "title": "\u30e6\u30cb\u30d5\u30a1",
+                "color": "rgb(0,214,0)"
             }
         },
         {
@@ -375,7 +417,8 @@
                 ]
             },
             "properties": {
-                "title": "N2i"
+                "title": "N2i",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -388,7 +431,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30a8\u30d6\u30eaPlus"
+                "title": "\u30a8\u30d6\u30eaPlus",
+                "color": "rgb(255,158,160)"
             }
         },
         {
@@ -401,7 +445,8 @@
                 ]
             },
             "properties": {
-                "title": "smart engineer"
+                "title": "smart engineer",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -414,7 +459,8 @@
                 ]
             },
             "properties": {
-                "title": "conextive"
+                "title": "conextive",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -427,7 +473,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d5\u30a7\u30f3\u30ea\u30eb"
+                "title": "\u30d5\u30a7\u30f3\u30ea\u30eb",
+                "color": "rgb(127,127,127)"
             }
         },
         {
@@ -440,7 +487,8 @@
                 ]
             },
             "properties": {
-                "title": "DDS"
+                "title": "DDS",
+                "color": "rgb(15,15,15)"
             }
         },
         {
@@ -453,7 +501,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30c8\u30d3\u30e9\u30b7\u30b9\u30c6\u30e0\u30ba"
+                "title": "\u30c8\u30d3\u30e9\u30b7\u30b9\u30c6\u30e0\u30ba",
+                "color": "rgb(7,144,255)"
             }
         },
         {
@@ -466,7 +515,8 @@
                 ]
             },
             "properties": {
-                "title": "AZAPA"
+                "title": "AZAPA",
+                "color": "rgb(6,192,255)"
             }
         },
         {
@@ -479,7 +529,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30ab\u30eb\u30c6\u30c3\u30c8\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba"
+                "title": "\u30ab\u30eb\u30c6\u30c3\u30c8\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+                "color": "rgb(0,214,0)"
             }
         },
         {
@@ -492,7 +543,8 @@
                 ]
             },
             "properties": {
-                "title": "ASUE"
+                "title": "ASUE",
+                "color": "rgb(127,127,127)"
             }
         },
         {
@@ -505,7 +557,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30bf\u30b8\u30aa\u30a2\u30f3\u30d3\u30eb\u30c9"
+                "title": "\u30b9\u30bf\u30b8\u30aa\u30a2\u30f3\u30d3\u30eb\u30c9",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -518,7 +571,8 @@
                 ]
             },
             "properties": {
-                "title": "PREVENT"
+                "title": "PREVENT",
+                "color": "rgb(1,147,148)"
             }
         },
         {
@@ -531,7 +585,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30aa\u30f3\u30b6\u30ed\u30fc\u30c9"
+                "title": "\u30aa\u30f3\u30b6\u30ed\u30fc\u30c9",
+                "color": "rgb(133,133,133)"
             }
         },
         {
@@ -544,7 +599,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30c7\u30f3\u30ad\u30e4\u30ae"
+                "title": "\u30c7\u30f3\u30ad\u30e4\u30ae",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -557,7 +613,8 @@
                 ]
             },
             "properties": {
-                "title": "DUIO"
+                "title": "DUO",
+                "color": "rgb(219,235,249)"
             }
         },
         {
@@ -570,7 +627,8 @@
                 ]
             },
             "properties": {
-                "title": "sansan"
+                "title": "sansan",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -583,7 +641,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30ef\u30f3\u30c0\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8"
+                "title": "\u30ef\u30f3\u30c0\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8",
+                "color": "rgb(0,214,0)"
             }
         },
         {
@@ -596,7 +655,8 @@
                 ]
             },
             "properties": {
-                "title": "\u697d\u5929"
+                "title": "\u697d\u5929",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -609,7 +669,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30de\u30c6\u30f3"
+                "title": "\u30b9\u30de\u30c6\u30f3",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -622,7 +683,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30d7\u30ea"
+                "title": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30d7\u30ea",
+                "color": "rgb(255,51,242)"
             }
         },
         {
@@ -635,7 +697,8 @@
                 ]
             },
             "properties": {
-                "title": "Oracle"
+                "title": "Oracle",
+                "color": "rgb(209,0,0)"
             }
         },
         {
@@ -648,20 +711,8 @@
                 ]
             },
             "properties": {
-                "title": "\u540d\u53e4\u5c4b\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "136.899234",
-                    "35.165809"
-                ]
-            },
-            "properties": {
-                "title": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30d7\u30ea"
+                "title": "\u540d\u53e4\u5c4b\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -674,7 +725,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0"
+                "title": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -687,7 +739,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b7\u30a7\u30eb\u30d1"
+                "title": "\u30b7\u30a7\u30eb\u30d1",
+                "color": "rgb(103,118,135)"
             }
         },
         {
@@ -700,7 +753,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30ec\u30fc\u30e0\u30e9\u30f3\u30c1"
+                "title": "\u30b9\u30ec\u30fc\u30e0\u30e9\u30f3\u30c1",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -713,7 +767,8 @@
                 ]
             },
             "properties": {
-                "title": "FRONTEO"
+                "title": "FRONTEO",
+                "color": "rgb(6,192,255)"
             }
         },
         {
@@ -726,7 +781,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3"
+                "title": "\u30d4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -739,7 +795,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30b9\u30bf\u30c7\u30a3\u30b9\u30c8"
+                "title": "\u30b9\u30bf\u30c7\u30a3\u30b9\u30c8",
+                "color": "rgb(219,235,249)"
             }
         },
         {
@@ -752,7 +809,8 @@
                 ]
             },
             "properties": {
-                "title": "\u697d\u50cd"
+                "title": "\u697d\u50cd",
+                "color": "rgb(255,0,0)"
             }
         },
         {
@@ -765,7 +823,8 @@
                 ]
             },
             "properties": {
-                "title": "Arc"
+                "title": "Arc",
+                "color": "rgb(4,222,254)"
             }
         },
         {
@@ -778,7 +837,8 @@
                 ]
             },
             "properties": {
-                "title": "\u3042\u3044\u3061\u30d9\u30f3\u30c1\u30e3\u30fc\u30cf\u30a6\u30b9"
+                "title": "\u3042\u3044\u3061\u30d9\u30f3\u30c1\u30e3\u30fc\u30cf\u30a6\u30b9",
+                "color": "rgb(253,118,2)"
             }
         },
         {
@@ -791,7 +851,8 @@
                 ]
             },
             "properties": {
-                "title": "\u6765\u6816\u5ddd\u96fb\u7b97"
+                "title": "\u6765\u6816\u5ddd\u96fb\u7b97",
+                "color": "rgb(3,198,226)"
             }
         },
         {
@@ -804,7 +865,8 @@
                 ]
             },
             "properties": {
-                "title": "FINE"
+                "title": "FINE",
+                "color": "rgb(15,15,15)"
             }
         },
         {
@@ -817,7 +879,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30d8\u30eb\u30b9\u30b1\u30a2\u30b7\u30b9\u30c6\u30e0\u30ba"
+                "title": "\u30d8\u30eb\u30b9\u30b1\u30a2\u30b7\u30b9\u30c6\u30e0\u30ba",
+                "color": "rgb(255,191,0)"
             }
         },
         {
@@ -830,7 +893,8 @@
                 ]
             },
             "properties": {
-                "title": "lab316"
+                "title": "lab316",
+                "color": "rgb(4,112,198)"
             }
         },
         {
@@ -843,7 +907,8 @@
                 ]
             },
             "properties": {
-                "title": "\u30c6\u30af\u30ce\u30b9\u30d4\u30fc\u30c1"
+                "title": "\u30c6\u30af\u30ce\u30b9\u30d4\u30fc\u30c1",
+                "color": "rgb(133,133,133)"
             }
         }
     ]

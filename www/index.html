@@ -69,8 +69,8 @@
                 "source": "nagoya",
                 "layout": {},
                 "paint": {
-                    "circle-color": "red",
-                    "circle-radius": 18,
+                    "circle-color": ['get', 'color'],
+                    "circle-radius": 20,
 
                 }
             });
@@ -87,7 +87,7 @@
                     "text-letter-spacing": 0.05,
                 },
                 "paint": {
-                    "text-color": "red",
+                    "text-color": ['get', 'color'],
                     "text-halo-width": 2,
                     "text-halo-color": "white",
                 }
@@ -95,7 +95,8 @@
 
 
 
-            map.on('click', "point_sample", function (e) {
+            map.on('click', "title", function (e) {
+                console.dir(e);
                 var coordinates = e.lngLat;
                 // 属性設定
                 var description = '<p>属性</p>';
@@ -108,10 +109,10 @@
                     .addTo(map);
             });
             //カーソルON,OFF
-            map.on('mouseenter', "point_sample", function () {
+            map.on('mouseenter', "title", function () {
                 map.getCanvas().style.cursor = 'pointer';
             });
-            map.on('mouseleave', "point_sample", function () {
+            map.on('mouseleave', "title", function () {
                 map.getCanvas().style.cursor = '';
             });
 
